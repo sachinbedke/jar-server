@@ -1,0 +1,68 @@
+{
+  "customers": [
+    {
+      "fname": "johnasd",
+      "address": "vantarian laslmarni",
+      "mobile": "63433234232324",
+      "id": 1
+    },
+    {
+      "fname": "johnasd",
+      "address": "vantarian ,asdflkajsdfnlaksjdfnlaksjdfnlkasdjf",
+      "mobile": "63433234232324",
+      "id": 2
+    },
+    {
+      "fname": "a",
+      "address": "vantarian laslmasdarni",
+      "mobile": "63433234232324",
+      "id": 3
+    },
+    {
+      "fname": "johnasd",
+      "address": "vantarian laslmarni",
+      "mobile": "63433234232324",
+      "id": 4
+    }
+  ],
+  "orders": [
+    {
+      "jars": "2",
+      "date": "2023-09-08",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "jars": "4",
+      "date": "2023-09-19",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "jars": "3",
+      "date": "2023-09-01",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "jars": "11",
+      "date": "2023-09-13",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "jars": "30",
+      "date": "2023-09-15",
+      "userId": 2,
+      "id": 5
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": 123
+    }
+  ]
+}
